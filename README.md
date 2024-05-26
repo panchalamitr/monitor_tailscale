@@ -1,4 +1,4 @@
-# Tailscale0 Network Traffic Monitor
+# Tailscale Network Traffic Monitor
 
 This Bash script monitors network traffic on the `tailscale0` interface, calculating and displaying the received and transmitted data in Mbps (Megabits per second). It provides a continuous, real-time view of network usage, updating every second.
 
